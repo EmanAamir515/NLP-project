@@ -1,0 +1,6 @@
+text,cleaned_text,sentiment
+"Bohott acha product hai","bohat acha product hai",positive
+"achey lag rahe hain","acha lag rahe hain",positive
+"Bahut gussa araha hai","bohat gussa araha hai",negative
+"Ziyda price hai","zyada price hai",negative
+"Piyar sa gift mila","pyar sa gift mila",positive
