@@ -1,4 +1,3 @@
-###dictionaries
 ##dictionary for Joy 
 joy_dict = {
     'words': [
@@ -13,8 +12,8 @@ joy_dict = {
         # English Mix
         'happy', 'joy', 'excited', 'fantastic', 'amazing', 'wonderful', 
         'great', 'good', 'perfect', 'brilliant', 'excellent',
-
-      # Slang/Informal
+        
+        # Slang/Informal
         'wah', 'wahwah', 'kya', 'jitna', 'bohot', 'bohat', 'zyada', 'zabardasti',
         
         # Additional Roman Urdu Joy Words
@@ -41,11 +40,11 @@ sadness_dict = {
         'broken', 'lost', 'bad', 'worst', 'awful', 'terrible',
         
         # Physical/Emotional States
-        'thak', 'thakan', 'bezaar', 'naaraaz', 'naraaz', 'gussa', 'narazgi',
+        'thak', 'thakan', 'bezaar', 'naraaz', 'gussa', 'narazgi',
         
         # Additional Roman Urdu Sadness Words
         'veerana', 'suna', 'khaali', 'tanhai', 'akela', 'akelapan',
         'andhera', 'ghabrahat', 'bezaari', 'nafrat', 'chubhan', 'zakham',
-        'dilgira', 'mout', 'intezar', 'judai', 'bichad', 'alvida'
+        'mout', 'intezar','bichad', 'alvida'
     ],
 }
